@@ -4,10 +4,8 @@ import requests
 from datetime import datetime, timezone, timedelta
 from tqdm import tqdm
 
-# 사용자 핸들
 HANDLE = "pyliasec"
 
-# 루트 디렉토리 설정
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 LANGUAGES = {
     "C": ".c",
@@ -18,13 +16,11 @@ LANGUAGES = {
 
 TIER_IMG_PATH = "assets/tier"
 
-# solved.ac로부터 해결한 문제 수 조회
 def get_solved_count(handle):
     response = requests.get("https://solved.ac/api/v3/user/show", params={"handle": handle})
     response.raise_for_status()
     return int(response.json()["solvedCount"])
 
-# solved.ac로부터 문제 목록을 페이지 단위로 조회
 def get_problems(handle, page):
     response = requests.get("https://solved.ac/api/v3/search/problem", params={
         "query": f"solved_by:{handle}",
@@ -35,7 +31,6 @@ def get_problems(handle, page):
     response.raise_for_status()
     return response.json()
 
-# 티어 숫자를 티어 이름으로 변환 후 이미지 태그 반환
 def get_problem_tier(level):
     tier = {
         0: "Unrated", 1: "B5", 2: "B4", 3: "B3", 4: "B2", 5: "B1",
@@ -47,11 +42,9 @@ def get_problem_tier(level):
     }
     return f'<img alt="{tier[level]}" src="{TIER_IMG_PATH}/{level}.svg">'
 
-# 문제 제목 특수문자 escape
 def escape_title(title):
     return title.replace("|", "\\|").replace("\\(", "$").replace("\\)", "$")
 
-# 특정 문제 번호에 대한 모든 솔루션 경로 반환
 def find_solution_paths(problem_id):
     results = []
     for lang_folder, ext in LANGUAGES.items():
@@ -62,7 +55,6 @@ def find_solution_paths(problem_id):
             results.append(f"[{lang_folder}]({rel_path})")
     return " ".join(results)
 
-# README 헤더 생성
 def get_header():
     now = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S")
     return f"""<div align="center">
@@ -84,7 +76,6 @@ def get_header():
 
 """
 
-# 문제 테이블 생성
 def get_table(problems):
     table = "| 번호 | 제목 | 레벨 | 코드 |\n|:---:|:---:|:---:|:---:|\n"
     print("Generating table...")
@@ -95,7 +86,6 @@ def get_table(problems):
         table += f"| {pid} | {escaped_title} | {tier_img} | {links} |\n"
     return table
 
-# 메인 루틴
 if __name__ == "__main__":
     solved_count = get_solved_count(HANDLE)
     total_pages = (solved_count - 1) // 50 + 1
