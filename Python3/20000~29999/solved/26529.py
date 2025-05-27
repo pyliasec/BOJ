@@ -1,0 +1,16 @@
+def f(n):
+    if n <= 1:
+        return 1
+    
+    fib = [1, 1] + [0] * (n - 1)
+    for i in range(2, n + 1):
+        fib[i] = fib[i-1] + fib[i-2]
+    
+    return fib[n]
+
+n = int(input())
+
+for _ in range(n):
+    x = int(input())
+    result = f(x)
+    print(result)

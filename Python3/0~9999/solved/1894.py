@@ -1,0 +1,1 @@
+for l in open(0):*a,=map(eval,l.split());p=a[2:4]in(a[4:6],a[6:]);print('%.3f %.3f'%(sum(a[::2])-3*a[2*p],sum(a[1::2])-3*a[2*p+1]))
