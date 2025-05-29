@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-05-28 01:02:00 (KST)
+마지막으로 업데이트: 2025-05-29 21:41:52 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -179,6 +179,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 24059 | Function | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/20000~29999/solved/24059.py) |
 | 24416 | 알고리즘 수업 - 피보나치 수 1 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/20000~29999/solved/24416.py) |
 | 24900 | 한별 찍기 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/20000~29999/solved/24900.py) |
+| 25175 | 두~~부 두부 두부 | <img alt="B3" src="assets/tier/3.svg"> | [Python3](Python3/20000~29999/solved/25175.py) |
 | 25947 | 선물할인 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/25947.py) |
 | 26529 | Bunnies | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/20000~29999/solved/26529.py) |
 | 26607 | 시로코와 은행털기 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/20000~29999/solved/26607.py) |
