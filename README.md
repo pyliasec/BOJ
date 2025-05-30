@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-05-29 21:41:52 (KST)
+마지막으로 업데이트: 2025-05-30 21:32:51 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -27,6 +27,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 1037 | 약수 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/1037.py) |
 | 1043 | 거짓말 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/1043.py) |
 | 1059 | 좋은 구간 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/1059.py) |
+| 1080 | 행렬 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/0~9999/solved/1080.py) |
 | 1083 | 소트 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/1083.py) |
 | 1152 | 단어의 개수 | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/0~9999/solved/1152.py) |
 | 1158 | 요세푸스 문제 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/1158.py) |
