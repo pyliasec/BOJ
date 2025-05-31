@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-05-30 21:32:51 (KST)
+마지막으로 업데이트: 2025-05-31 17:30:39 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -189,7 +189,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 28123 | 삶, 우주, 그리고 모든 것에 관한 궁극적인 질문의 해답 | <img alt="D5" src="assets/tier/21.svg"> | [Python3](Python3/20000~29999/solved/28123.py) |
 | 28422 | XOR 카드 게임 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/28422.py) |
 | 28431 | 양말 짝 맞추기 | <img alt="B4" src="assets/tier/2.svg"> | [Python3](Python3/20000~29999/solved/28431.py) |
-| 29727 | 선이 하나 더ㅠㅠ | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/20000~29999/solved/29727.py) |
+| 29727 | 선이 하나 더ㅠㅠ | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/29727.py) |
 | 30402 | 감마선을 맞은 컴퓨터 | <img alt="B4" src="assets/tier/2.svg"> | [Python3](Python3/30000~39999/solved/30402.py) |
 | 30461 | 낚시 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/30000~39999/solved/30461.py) |
 | 30869 | 빨리 기다리기 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/30000~39999/solved/30869.py) |
