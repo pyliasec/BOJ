@@ -103,24 +103,4 @@ if __name__ == "__main__":
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
 
-
     print("README.md successfully updated.")
-
-    # Git add, commit, push 자동 실행 (출력 전체 표시)
-    import subprocess
-    def run_git_cmd(cmd):
-        print(f"실행: {' '.join(cmd)}")
-        result = subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True)
-        print("stdout:\n", result.stdout)
-        print("stderr:\n", result.stderr)
-        if result.returncode != 0:
-            print(f"명령 실패: {' '.join(cmd)} (exit code {result.returncode})")
-        return result.returncode
-
-    add_code = run_git_cmd(["git", "add", "README.md"])
-    commit_code = run_git_cmd(["git", "commit", "-m", "Update README.md"])
-    push_code = run_git_cmd(["git", "push", "origin", "main"])
-    if push_code == 0:
-        print("Changes pushed to GitHub.")
-    else:
-        print("GitHub push 실패. 위 출력 참고.")
