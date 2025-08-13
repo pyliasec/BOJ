@@ -1,7 +1,7 @@
 name: Update README
 
 permissions:
-  contents: write  # <-- push 할 수 있도록 권한 부여
+  contents: write
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # 기본 제공 토큰 사용
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,10 +33,11 @@ jobs:
           if [ $? -eq 123 ]; then
             exit 0
           fi
-      
-      - name: Push changes and commit
+
+      - name: Commit & Push changes
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git commit -am "Update README.md" || echo "No changes to commit"
+          git add README.md
+          git commit -m "Update README.md" || echo "No changes to commit"
           git push
