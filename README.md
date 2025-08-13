@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-06-06 01:57:28 (KST)
+마지막으로 업데이트: 2025-08-09 14:12:08 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -98,7 +98,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 2839 | 설탕 배달 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/2839.py) |
 | 2870 | 수학숙제 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/2870.py) |
 | 3102 | 겹치지 않는 원 | <img alt="P4" src="assets/tier/17.svg"> | [Python3](Python3/0~9999/solved/3102.py) |
-| 3188 | nule | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/0~9999/solved/3188.py) |
+| 3188 | nule | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/0~9999/solved/3188.py) |
 | 4097 | 수익 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/0~9999/solved/4097.py) |
 | 4159 | 알래스카 | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/0~9999/solved/4159.py) |
 | 4458 | 첫 글자를 대문자로 | <img alt="B3" src="assets/tier/3.svg"> | [Python3](Python3/0~9999/solved/4458.py) |
@@ -111,7 +111,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 6221 | The Bale Tower | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/0~9999/solved/6221.py) |
 | 6568 | 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/0~9999/solved/6568.py) |
 | 6946 | Golf | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/0~9999/solved/6946.py) |
-| 6969 | Mountain Passage | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/6969.py) |
+| 6969 | Mountain Passage | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/0~9999/solved/6969.py) |
 | 7287 | 등록 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/7287.py) |
 | 8689 | Gra | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/0~9999/solved/8689.py) |
 | 8958 | OX퀴즈 | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/0~9999/solved/8958.py) |
@@ -152,7 +152,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 14585 | 사수빈탕 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/10000~19999/solved/14585.py) |
 | 14611 | 월요병 | <img alt="P4" src="assets/tier/17.svg"> | [Python3](Python3/10000~19999/solved/14611.py) |
 | 14913 | 등차수열에서 항 번호 찾기 | <img alt="B3" src="assets/tier/3.svg"> | [Python3](Python3/10000~19999/solved/14913.py) |
-| 14929 | 귀찮아 (SIB) | <img alt="S5" src="assets/tier/6.svg"> | [Python3](Python3/10000~19999/solved/14929.py) |
+| 14929 | 귀찮아 (SIB) | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/10000~19999/solved/14929.py) |
 | 14934 | 변치 않는 수 | <img alt="P4" src="assets/tier/17.svg"> | [Python3](Python3/10000~19999/solved/14934.py) |
 | 15312 | 이름 궁합 | <img alt="S5" src="assets/tier/6.svg"> | [Python3](Python3/10000~19999/solved/15312.py) |
 | 15713 | 오리날다 | <img alt="P3" src="assets/tier/18.svg"> | [Python3](Python3/10000~19999/solved/15713.py) |
@@ -185,8 +185,9 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 26529 | Bunnies | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/20000~29999/solved/26529.py) |
 | 26607 | 시로코와 은행털기 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/20000~29999/solved/26607.py) |
 | 27314 | 러키☆한별 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/20000~29999/solved/27314.py) |
+| 27377 | 읽씹 멈춰! | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/20000~29999/solved/27377.py) |
 | 27971 | 강아지는 많을수록 좋다 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/27971.py) |
-| 28123 | 삶, 우주, 그리고 모든 것에 관한 궁극적인 질문의 해답 | <img alt="D5" src="assets/tier/21.svg"> | [Python3](Python3/20000~29999/solved/28123.py) |
+| 28123 | 삶, 우주, 그리고 모든 것에 관한 궁극적인 질문의 해답 | <img alt="P1" src="assets/tier/20.svg"> | [Python3](Python3/20000~29999/solved/28123.py) |
 | 28422 | XOR 카드 게임 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/28422.py) |
 | 28431 | 양말 짝 맞추기 | <img alt="B4" src="assets/tier/2.svg"> | [Python3](Python3/20000~29999/solved/28431.py) |
 | 29727 | 선이 하나 더ㅠㅠ | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/20000~29999/solved/29727.py) |
