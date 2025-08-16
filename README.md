@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-08-14 09:57:52 (KST)
+마지막으로 업데이트: 2025-08-16 10:40:22 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -72,7 +72,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 2149 | 암호 해독 | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/0~9999/solved/2149.py) |
 | 2204 | 도비의 난독증 테스트 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2204.py) |
 | 2212 | 센서 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/0~9999/solved/2212.py) |
-| 2246 | 콘도 선정 | <img alt="B1" src="assets/tier/5.svg"> |  |
+| 2246 | 콘도 선정 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2246.py) |
 | 2281 | 데스노트 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/0~9999/solved/2281.py) |
 | 2309 | 일곱 난쟁이 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2309.py) |
 | 2338 | 긴자리 계산 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/2338.py) |
