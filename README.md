@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-09-14 10:38:07 (KST)
+마지막으로 업데이트: 2025-09-20 10:22:21 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -145,7 +145,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 11399 | ATM | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/10000~19999/solved/11399.py) |
 | 11726 | 2×n 타일링 | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/10000~19999/solved/11726.py) |
 | 12026 | BOJ 거리 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/10000~19999/solved/12026.py) |
-| 12852 | 1로 만들기 2 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/10000~19999/solved/12852.py) |
+| 12852 | 1로 만들기 2 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/10000~19999/solved/12852.py) |
 | 13199 | 치킨 먹고 싶다 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/10000~19999/solved/13199.py) |
 | 13699 | 점화식 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/10000~19999/solved/13699.py) |
 | 14285 | 간선 끊어가기 | <img alt="P5" src="assets/tier/16.svg"> | [Python3](Python3/10000~19999/solved/14285.py) |
