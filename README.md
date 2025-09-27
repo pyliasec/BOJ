@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-09-21 10:39:54 (KST)
+마지막으로 업데이트: 2025-09-27 10:22:01 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -159,7 +159,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 15713 | 오리날다 | <img alt="P3" src="assets/tier/18.svg"> | [Python3](Python3/10000~19999/solved/15713.py) |
 | 15727 | 조별과제를 하려는데 조장이 사라졌다 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/10000~19999/solved/15727.py) |
 | 15731 | Python 문법 | <img alt="P5" src="assets/tier/16.svg"> | [Python3](Python3/10000~19999/solved/15731.py) |
-| 15841 | Virus Outbreak | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/10000~19999/solved/15841.py) |
+| 15841 | Virus Outbreak | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/10000~19999/solved/15841.py) |
 | 15924 | 욱제는 사과팬이야!! | <img alt="G5" src="assets/tier/11.svg"> | [Cpp](Cpp/10000~19999/solved/15924.cpp) [Python3](Python3/10000~19999/solved/15924.py) |
 | 15988 | 1, 2, 3 더하기 3 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/10000~19999/solved/15988.py) |
 | 16118 | 달빛 여우 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/10000~19999/solved/16118.py) |
