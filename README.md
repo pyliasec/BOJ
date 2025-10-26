@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-10-25 10:26:08 (KST)
+마지막으로 업데이트: 2025-10-26 10:41:28 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -52,7 +52,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 1504 | 특정한 최단 경로 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/1504.py) |
 | 1517 | 버블 소트 | <img alt="P5" src="assets/tier/16.svg"> | [Python3](Python3/0~9999/solved/1517.py) |
 | 1541 | 잃어버린 괄호 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/0~9999/solved/1541.py) |
-| 1663 | XYZ 문자열 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/0~9999/solved/1663.py) |
+| 1663 | XYZ 문자열 | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/0~9999/solved/1663.py) |
 | 1753 | 최단경로 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/1753.py) |
 | 1764 | 듣보잡 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/1764.py) |
 | 1822 | 차집합 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/1822.py) |
