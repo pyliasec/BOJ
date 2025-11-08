@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-11-02 10:43:38 (KST)
+마지막으로 업데이트: 2025-11-08 10:26:38 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -198,4 +198,4 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 30991 | ESC | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/30000~39999/solved/30991.py) |
 | 31674 | 특별한 기술력 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/30000~39999/solved/31674.py) |
 | 32136 | 소신발언 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/30000~39999/solved/32136.py) |
-| 33941 | 잔돈 싫어 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/30000~39999/solved/33941.py) |
+| 33941 | 잔돈 싫어 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/30000~39999/solved/33941.py) |
