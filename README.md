@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-11-09 10:42:41 (KST)
+마지막으로 업데이트: 2025-11-15 10:37:13 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -31,6 +31,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 1083 | 소트 | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/1083.py) |
 | 1152 | 단어의 개수 | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/0~9999/solved/1152.py) |
 | 1158 | 요세푸스 문제 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/1158.py) |
+| 1168 | 요세푸스 문제 2 | <img alt="P3" src="assets/tier/18.svg"> |  |
 | 1179 | 마지막 요세푸스 문제 | <img alt="P1" src="assets/tier/20.svg"> | [Python3](Python3/0~9999/solved/1179.py) |
 | 1181 | 단어 정렬 | <img alt="S5" src="assets/tier/6.svg"> | [Python3](Python3/0~9999/solved/1181.py) |
 | 1225 | 이상한 곱셈 | <img alt="B2" src="assets/tier/4.svg"> | [Python3](Python3/0~9999/solved/1225.py) |
@@ -73,7 +74,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 2204 | 도비의 난독증 테스트 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2204.py) |
 | 2212 | 센서 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/0~9999/solved/2212.py) |
 | 2246 | 콘도 선정 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2246.py) |
-| 2281 | 데스노트 | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/0~9999/solved/2281.py) |
+| 2281 | 데스노트 | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/0~9999/solved/2281.py) |
 | 2309 | 일곱 난쟁이 | <img alt="B1" src="assets/tier/5.svg"> | [Python3](Python3/0~9999/solved/2309.py) |
 | 2338 | 긴자리 계산 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/2338.py) |
 | 2393 | Rook | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/2393.py) |
@@ -199,3 +200,4 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 31674 | 특별한 기술력 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/30000~39999/solved/31674.py) |
 | 32136 | 소신발언 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/30000~39999/solved/32136.py) |
 | 33941 | 잔돈 싫어 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/30000~39999/solved/33941.py) |
+| 34073 | DORO | <img alt="B4" src="assets/tier/2.svg"> |  |
