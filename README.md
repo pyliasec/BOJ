@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-11-16 10:45:16 (KST)
+마지막으로 업데이트: 2025-11-22 10:27:51 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -175,6 +175,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 18251 | 내 생각에 A번인 단순 dfs 문제가 이 대회에서 E번이 되어버린 건에 관하여 (Easy) | <img alt="P4" src="assets/tier/17.svg"> | [Python3](Python3/10000~19999/solved/18251.py) |
 | 19952 | 인성 문제 있어?? | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/10000~19999/solved/19952.py) |
 | 20126 | 교수님의 기말고사 | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/20000~29999/solved/20126.py) |
+| 20206 | 푸앙이가 길을 건너간 이유 | <img alt="S1" src="assets/tier/10.svg"> |  |
 | 20500 | Ezreal 여눈부터 가네 ㅈㅈ | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/20000~29999/solved/20500.py) |
 | 20916 | 안녕 2020 안녕 2021 | <img alt="G5" src="assets/tier/11.svg"> | [Python3](Python3/20000~29999/solved/20916.py) |
 | 23087 | 최단최단경로 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/20000~29999/solved/23087.py) |
