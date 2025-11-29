@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2025-11-23 10:52:07 (KST)
+마지막으로 업데이트: 2025-11-29 10:38:19 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -81,7 +81,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 2437 | 저울 | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/0~9999/solved/2437.py) |
 | 2438 | 별 찍기 - 1 | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/2438.py) |
 | 2502 | 떡 먹는 호랑이 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/0~9999/solved/2502.py) |
-| 2541 | 점 | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/0~9999/solved/2541.py) |
+| 2541 | 점 | <img alt="G1" src="assets/tier/15.svg"> | [Python3](Python3/0~9999/solved/2541.py) |
 | 2557 | Hello World | <img alt="B5" src="assets/tier/1.svg"> | [Python3](Python3/0~9999/solved/2557.py) |
 | 2688 | 줄어들지 않아 | <img alt="S1" src="assets/tier/10.svg"> | [Python3](Python3/0~9999/solved/2688.py) |
 | 2695 | 공 | <img alt="G2" src="assets/tier/14.svg"> | [Python3](Python3/0~9999/solved/2695.py) |
