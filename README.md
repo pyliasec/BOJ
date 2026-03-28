@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2026-03-22 11:24:55 (KST)
+마지막으로 업데이트: 2026-03-28 11:22:12 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
@@ -100,7 +100,7 @@ Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 | 2839 | 설탕 배달 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/2839.py) |
 | 2870 | 수학숙제 | <img alt="S4" src="assets/tier/7.svg"> | [Python3](Python3/0~9999/solved/2870.py) |
 | 3102 | 겹치지 않는 원 | <img alt="P4" src="assets/tier/17.svg"> | [Python3](Python3/0~9999/solved/3102.py) |
-| 3188 | nule | <img alt="G4" src="assets/tier/12.svg"> | [Python3](Python3/0~9999/solved/3188.py) |
+| 3188 | nule | <img alt="G3" src="assets/tier/13.svg"> | [Python3](Python3/0~9999/solved/3188.py) |
 | 4097 | 수익 | <img alt="S2" src="assets/tier/9.svg"> | [Python3](Python3/0~9999/solved/4097.py) |
 | 4159 | 알래스카 | <img alt="S3" src="assets/tier/8.svg"> | [Python3](Python3/0~9999/solved/4159.py) |
 | 4458 | 첫 글자를 대문자로 | <img alt="B3" src="assets/tier/3.svg"> | [Python3](Python3/0~9999/solved/4458.py) |
