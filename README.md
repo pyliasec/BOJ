@@ -7,7 +7,7 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
 
-마지막으로 업데이트: 2026-10-24 12:35:28 (KST)
+마지막으로 업데이트: 2026-10-25 12:32:47 (KST)
 
 Ctrl+F 단축키로 문제를 찾는 것을 권장합니다.
 
